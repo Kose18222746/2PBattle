@@ -1,0 +1,13 @@
+﻿  Test1.cpp
+C:\Users\3031190\Desktop\ShoothingGame\enemy.h(92,17): warning C4552: '+': 式の結果が使用されていません
+  (ソース ファイル 'Test1.cpp' をコンパイルしています)
+  
+C:\Users\3031190\Desktop\ShoothingGame\enemy.h(107,6): warning C4101: 'now_x': ローカル変数は 1 度も使われていません。
+  (ソース ファイル 'Test1.cpp' をコンパイルしています)
+  
+C:\Users\3031190\Desktop\ShoothingGame\enemy.h(115,6): warning C4101: 'now_y': ローカル変数は 1 度も使われていません。
+  (ソース ファイル 'Test1.cpp' をコンパイルしています)
+  
+C:\Users\3031190\Desktop\ShoothingGame\enemy.h(120,1): warning C4715: 'Getenemy_y': 値を返さないコントロール パスがあります。
+C:\Users\3031190\Desktop\ShoothingGame\enemy.h(112,1): warning C4715: 'Getenemy_x': 値を返さないコントロール パスがあります。
+  Hello World.vcxproj -> C:\Users\3031190\Desktop\ShoothingGame\x64\Debug\Hello World.exe
